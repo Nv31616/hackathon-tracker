@@ -1,0 +1,812 @@
+{
+  "pageProps": {
+    "hackathon": {
+      "uuid": "ed8b373fa4844d128ad9df7a56c4c5d5",
+      "name": "HACKANOVA 5.O",
+      "slug": "hackanova-5-0",
+      "type": "HACKATHON",
+      "tagline": "Break the Loop, Create the Future",
+      "desc": "# OVERVIEW\n\nThakur College of Engineering & Technology is pleased to announce the 5th edition of Hackanova, our most awaited technical event. The theme of Hackanova 5.0 is **Break the loop, Create the future**.\n\nThis year, we’re introducing *two tracks* for Hackanova 5.0:\n\n- *Software Track: Focusing on innovations in **Agentic AI***.\n- *Hardware Track: Focusing on development in **Industry 4.0***.\n\n## How to Apply\n* Your Idea should be related to Agentic AI or Industry 4.0. It can be a mobile app, a web app, or any hardware-based project you find relevant to the theme.\n* Use the [Idea Submission Template (Software Track)](https://drive.google.com/drive/folders/1xYl7WghR8fyoQ1DjmPpzvlAqfS7zf6Qc?usp=sharing) to prepare a PPT for your idea (Software Track).\n* Use the [Idea Submission Template (Hardware Track)](https://drive.google.com/drive/u/7/folders/10NdKdO-uq5Krs8rEQO40eqaVDN-GU3kV) to prepare a PPT for your idea (Hardware Track).\n* All team members must upload the same PPT to the application form.\n* The team leader must also fill this form:  \n\n   - *For Software Track*: [Software Track Leader Form](https://forms.gle/c3m6YWqTNbkPg2kq9)  \n   - *For Hardware Track*: [Hardware Track Leader Form](https://forms.gle/KrNxgG6ariBNEqWc8)  \n\n* The team leader should *Create a Team* and share the invite code with their teammates.\n* Once all team members have joined, they can submit their application.\n\n*Note*:  \n1. Individual applications will not be entertained. Kindly apply in a team of minimum 2 members and maximum 4 members.  \n2. There will be a different set of problem statements in the final offline round.",
+      "team_min": 2,
+      "team_max": 4,
+      "starts_at": "2026-03-13T04:30:00+00:00",
+      "ends_at": "2026-03-14T16:00:00+00:00",
+      "cover_img": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/assets/cover/933.png",
+      "is_online": false,
+      "devfolio_official": null,
+      "rating": 0,
+      "city": "Mumbai",
+      "country": "India",
+      "timezone": "Asia/Kolkata",
+      "location": "Thakur College of Engineering and Technology, Thakur Road, ठाकुर, Thakur Village, Kandivali East, Mumbai, Maharashtra, India",
+      "settings": {
+        "reg_ends_at": "2026-03-10T18:45:00+00:00",
+        "reg_starts_at": "2026-01-28T08:30:00+00:00",
+        "external_apply_url": null,
+        "is_hybrid": false,
+        "review": false,
+        "site": "https://www.tsdw.in/",
+        "twitter": null,
+        "slack": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/tcet_tsdw/6",
+        "telegram": null,
+        "discord": "https://discord.gg/FN9WVwfvdF",
+        "linkedin": null,
+        "farcaster": null,
+        "medium": null,
+        "tokenproof_gating_enabled": false,
+        "coc_url": "https://devfolio.co/code-of-conduct",
+        "contact_email": "technicalteamtsdw@gmail.com",
+        "show_more_hackathons": true,
+        "v2_application_enabled": false,
+        "quadratic_voting_enabled": false,
+        "quadratic_voting_starts_at": null,
+        "quadratic_voting_ends_at": null,
+        "paid": false,
+        "mentor_booking_enabled": false,
+        "mentorship_starts_at": null,
+        "mentorship_ends_at": null
+      },
+      "stakings": [],
+      "faqs": [
+        {
+          "uuid": "dd21a1f91f9e48ffabd4335cafc16ba3",
+          "question": "What resources are provided?",
+          "answer": "Participants get access to mentoring sessions & technical support during the event.",
+          "order": 1
+        },
+        {
+          "uuid": "6d9c4c5d25f1488299a2c09ca13adfb9",
+          "question": "Who is eligible to apply?",
+          "answer": "Students with passion for solving problems. All skill levels are welcome.",
+          "order": 2
+        },
+        {
+          "uuid": "318e10f06ec34cf68bbb42de3e34fa45",
+          "question": "Is there any registration fee ?",
+          "answer": "No, Hackanova 5.0 is completely free for shortlisted teams.",
+          "order": 3
+        },
+        {
+          "uuid": "f6927a115b9e46dbb453da8076462b4a",
+          "question": "How to get updates ?",
+          "answer": "Follow our TSDW social handles and join our Discord.",
+          "order": 4
+        },
+        {
+          "uuid": "8d56e5336cad4bd08c7f2348e3c13c4c",
+          "question": "What are the Perks of participating?",
+          "answer": "Cash prizes, mentorship, and industry networking.",
+          "order": 5
+        },
+        {
+          "uuid": "6cd52a2691e940b98371e892e645eeb9",
+          "question": "Where is the venue?",
+          "answer": "At the TCET Campus, further will be communicated to selected participants.",
+          "order": 6
+        }
+      ],
+      "sponsor_tiers": [
+        {
+          "uuid": "d75680929e5a4509b29cd2c4f24be7d7",
+          "name": "Gold",
+          "position": 1,
+          "width": 400,
+          "sponsors": [
+            {
+              "uuid": "ced35d16101e47efa44966198d9185a6",
+              "name": "Devfolio",
+              "about": null,
+              "position": 1,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/ced35d16101e47efa44966198d9185a6/35.png",
+              "company": {
+                "favicon": "https://assets.devfolio.co/company/89b098bdc57d448badcd5667ba31dcd7/assets/favicon.png",
+                "uuid": "89b098bdc57d448badcd5667ba31dcd7",
+                "name": "Devfolio",
+                "domain": "devfolio.co"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "cf1c18590c144d27bd38d7997e948f12",
+              "name": "ETHIndia",
+              "about": null,
+              "position": 2,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/cf1c18590c144d27bd38d7997e948f12/60.jpeg",
+              "company": {
+                "favicon": "https://assets.devfolio.co/company/eff5c7277c6b419889649f87eef59949/assets/favicon.png",
+                "uuid": "eff5c7277c6b419889649f87eef59949",
+                "name": "ETHIndia",
+                "domain": "ethindia.co"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "58837c99379d46c28b6e6f571c8d8f32",
+              "name": "CodeCrafters",
+              "about": null,
+              "position": 3,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/58837c99379d46c28b6e6f571c8d8f32/963.png",
+              "company": {
+                "favicon": null,
+                "uuid": "6c6fbb0ae7b34e8885e942e914e517c1",
+                "name": "CodeCrafters",
+                "domain": "codecrafters.io"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "c70dca29537345d69810041da2a7869e",
+              "name": "n8n",
+              "about": null,
+              "position": 4,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/c70dca29537345d69810041da2a7869e/692.jpeg",
+              "company": {
+                "favicon": null,
+                "uuid": "44c16e752e3d4e179f4c941eb064ca55",
+                "name": "n8n",
+                "domain": "https://app.n8n.cloud/login?returnPath=%2Faccount%2Fchange-plan"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "b70b5227a37449dca0174562335da6a0",
+              "name": "navan.ai",
+              "about": null,
+              "position": 5,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/b70b5227a37449dca0174562335da6a0/928.jpeg",
+              "company": {
+                "favicon": null,
+                "uuid": "9ca91453b8624f33b5ee2857a8125941",
+                "name": "navan.ai",
+                "domain": "navan.ai"
+              },
+              "prize_tracks": []
+            }
+          ]
+        },
+        {
+          "uuid": "960a8209c96f412f88bfcf3efbe21f6e",
+          "name": "Silver",
+          "position": 2,
+          "width": 200,
+          "sponsors": [
+            {
+              "uuid": "b694577ec8c24e0199062f458de4d64b",
+              "name": ".xyz",
+              "about": null,
+              "position": 1,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/b694577ec8c24e0199062f458de4d64b/571.jpeg",
+              "company": {
+                "favicon": null,
+                "uuid": "2e303093953941c4be5486ced5bf992a",
+                "name": "XYZ",
+                "domain": "gen.xyz"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "6909bb39ce184cca94734f2336401c7a",
+              "name": "ecertify",
+              "about": null,
+              "position": 2,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/6909bb39ce184cca94734f2336401c7a/956.jpeg",
+              "company": {
+                "favicon": null,
+                "uuid": "1603588e6ee44384b49662a55d01eebb",
+                "name": "ecertify",
+                "domain": "https://www.esscert.com/how-to-ecertify"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "b3821e5a67534ec8991208ba4b0ca874",
+              "name": "Featherless AI",
+              "about": null,
+              "position": 3,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/b3821e5a67534ec8991208ba4b0ca874/688.jpeg",
+              "company": {
+                "favicon": null,
+                "uuid": "bfec6fe65d8d4c9f83cac9d4a4d316dc",
+                "name": "Featherless.ai",
+                "domain": "https://featherless.ai/"
+              },
+              "prize_tracks": []
+            },
+            {
+              "uuid": "8a68607105f94372b79e1a43f7bf364b",
+              "name": "InterviewBuddy",
+              "about": null,
+              "position": 4,
+              "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/sponsors/8a68607105f94372b79e1a43f7bf364b/233.png",
+              "company": {
+                "favicon": null,
+                "uuid": "75b1808334024306bdb1cacf0e20bca0",
+                "name": "InterviewBuddy",
+                "domain": "interviewbuddy.online"
+              },
+              "prize_tracks": []
+            }
+          ]
+        }
+      ],
+      "hackathon_partnership": null
+    },
+    "moreHackathons": [
+      {
+        "uuid": "5681da5779a24b7c86d4779441c33bab",
+        "slug": "hackprix-2026",
+        "name": "HackPrix Season 3",
+        "type": "HACKATHON",
+        "devfolio_official": null,
+        "starts_at": "2026-06-13T02:30:00+00:00",
+        "ends_at": "2026-06-13T22:30:00+00:00",
+        "is_online": false,
+        "rating": 0,
+        "themes": [
+          {
+            "theme": {
+              "name": "No Restrictions"
+            }
+          }
+        ],
+        "timezone": "Asia/Calcutta",
+        "participants_count": 49,
+        "participants_details": [],
+        "settings": {
+          "reg_starts_at": "2026-02-26T06:00:00+00:00",
+          "reg_ends_at": "2026-05-31T18:30:00+00:00",
+          "logo": "https://assets.devfolio.co/hackathons/5681da5779a24b7c86d4779441c33bab/assets/logo/19.png",
+          "primary_color": "#1d6fff",
+          "review": false,
+          "site": "https://s3.hackprix.tech/partners",
+          "twitter": "https://x.com/hackprix",
+          "facebook": null,
+          "instagram": "https://www.instagram.com/hackprix",
+          "medium": null,
+          "telegram": null,
+          "slack": null,
+          "discord": "https://discord.com/invite/HrFA4B2t4G"
+        }
+      },
+      {
+        "uuid": "4222e8b537ab48bdbfeda375d8210481",
+        "slug": "base-batches-student-track-3",
+        "name": "Base Batches 003: Student Track",
+        "type": "HACKATHON",
+        "devfolio_official": false,
+        "starts_at": "2026-02-17T08:00:00+00:00",
+        "ends_at": "2026-04-27T07:00:00+00:00",
+        "is_online": true,
+        "rating": 0,
+        "themes": [
+          {
+            "theme": {
+              "name": "No Restrictions"
+            }
+          }
+        ],
+        "timezone": "America/Los_Angeles",
+        "participants_count": 1884,
+        "participants_details": [
+          {
+            "uuid": "6c1cb56cf3804e0bb753f42ad3e1510e",
+            "username": "ravik1",
+            "last_name": "Kumar",
+            "first_name": "Ravi",
+            "profile_image": "https://assets.devfolio.co/users/6c1cb56cf3804e0bb753f42ad3e1510e/avatar-e6ea1cb7-fa03-47b8-baab-49935b7bcbec.jpeg"
+          },
+          {
+            "uuid": "0435d00dc73f470aa14435fefeba3eba",
+            "username": "SuryaPrakash512",
+            "last_name": "Prakash",
+            "first_name": "Surya",
+            "profile_image": "https://assets.devfolio.co/users/0435d00dc73f470aa14435fefeba3eba/avatar-61944b77-2703-4558-a0ba-767a96a15a6b.jpeg"
+          },
+          {
+            "uuid": "42f154800a834aff8b518794dc5a7258",
+            "username": "alexsalt",
+            "last_name": "Salt",
+            "first_name": "Alex",
+            "profile_image": "https://assets.devfolio.co/users/42f154800a834aff8b518794dc5a7258/avatar-143da9df-a86e-46a6-8a72-3db1ff3a9b12.jpeg"
+          }
+        ],
+        "settings": {
+          "reg_starts_at": "2026-02-17T08:00:00+00:00",
+          "reg_ends_at": "2026-04-27T07:00:00+00:00",
+          "logo": "https://assets.devfolio.co/hackathons/4222e8b537ab48bdbfeda375d8210481/assets/logo/50.jpeg",
+          "primary_color": "#0693e3",
+          "review": false,
+          "site": null,
+          "twitter": "https://x.com/base",
+          "facebook": null,
+          "instagram": null,
+          "medium": null,
+          "telegram": null,
+          "slack": null,
+          "discord": null
+        }
+      },
+      {
+        "uuid": "b02c876be848495bbcc46ea11ded0f01",
+        "slug": "terrahack",
+        "name": "TerraHack 2026",
+        "type": "HACKATHON",
+        "devfolio_official": null,
+        "starts_at": "2026-04-04T02:30:00+00:00",
+        "ends_at": "2026-04-04T12:30:00+00:00",
+        "is_online": false,
+        "rating": 0,
+        "themes": [
+          {
+            "theme": {
+              "name": "No Restrictions"
+            }
+          }
+        ],
+        "timezone": "Asia/Calcutta",
+        "participants_count": 40,
+        "participants_details": [
+          {
+            "uuid": "d2e3593bd8304670804d40301c0c441f",
+            "username": "kyledmakess",
+            "last_name": "Prasad",
+            "first_name": "Nivedhitha",
+            "profile_image": "https://assets.devfolio.co/users/d2e3593bd8304670804d40301c0c441f/avatar-3fbffcdd-5074-45a8-8f4a-6df849122176.jpeg"
+          }
+        ],
+        "settings": {
+          "reg_starts_at": "2026-02-25T06:30:00+00:00",
+          "reg_ends_at": "2026-03-24T18:30:00+00:00",
+          "logo": "https://assets.devfolio.co/hackathons/b02c876be848495bbcc46ea11ded0f01/assets/logo/742.png",
+          "primary_color": "#00d084",
+          "review": false,
+          "site": "https://www.terrahack.online/",
+          "twitter": null,
+          "facebook": null,
+          "instagram": "https://www.instagram.com/_idhika?igsh=ampreGdxdW4xdGhi",
+          "medium": null,
+          "telegram": null,
+          "slack": null,
+          "discord": null
+        }
+      },
+      {
+        "uuid": "40551eb2f5f54ed29ecaf3edf3ae4c6d",
+        "slug": "code-recet-3",
+        "name": "Code reCET 3.0",
+        "type": "HACKATHON",
+        "devfolio_official": null,
+        "starts_at": "2026-03-27T10:30:00+00:00",
+        "ends_at": "2026-03-30T17:30:00+00:00",
+        "is_online": false,
+        "rating": 0,
+        "themes": [
+          {
+            "theme": {
+              "name": "No Restrictions"
+            }
+          }
+        ],
+        "timezone": "Asia/Calcutta",
+        "participants_count": 914,
+        "participants_details": [
+          {
+            "uuid": "1c8a24f3b949457899a7dcd060c1a9b6",
+            "username": "Akshaymnair",
+            "last_name": "M",
+            "first_name": "Akshay",
+            "profile_image": "https://assets.devfolio.co/users/1c8a24f3b949457899a7dcd060c1a9b6/avatar-824923d7-1d88-41b5-9790-2b3391af1afb.jpeg"
+          },
+          {
+            "uuid": "97a9cf2d071b4f0493d97800cb694057",
+            "username": "Abhinav_kp",
+            "last_name": "kp",
+            "first_name": "Abhinav",
+            "profile_image": "https://assets.devfolio.co/users/97a9cf2d071b4f0493d97800cb694057/avatar-9ac6f264-5c6b-46c9-b9d6-e9bb16b603fb.jpeg"
+          },
+          {
+            "uuid": "357ae175d9184908bb4a733394e74433",
+            "username": "Abhiram_ananthu",
+            "last_name": "A R",
+            "first_name": "Abhiram",
+            "profile_image": "https://assets.devfolio.co/users/357ae175d9184908bb4a733394e74433/avatar-f4bb8d12-f4ad-4ac8-9b0a-15aca2b95e6e.jpeg"
+          }
+        ],
+        "settings": {
+          "reg_starts_at": "2026-02-15T18:30:00+00:00",
+          "reg_ends_at": "2026-03-19T18:29:00+00:00",
+          "logo": "https://assets.devfolio.co/hackathons/40551eb2f5f54ed29ecaf3edf3ae4c6d/assets/logo/456.png",
+          "primary_color": "#e6f85a",
+          "review": false,
+          "site": "https://www.coderecet.live",
+          "twitter": null,
+          "facebook": null,
+          "instagram": "https://www.instagram.com/coderecet",
+          "medium": null,
+          "telegram": null,
+          "slack": null,
+          "discord": null
+        }
+      }
+    ],
+    "aggregatePrizeValue": 41385,
+    "aggregatePrizeCurrency": "USD",
+    "prizeDetails": [
+      {
+        "uuid": "organizer",
+        "name": "HACKANOVA 5.O",
+        "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/assets/favicon/10.png",
+        "desc": null,
+        "type": "organizer",
+        "tracks": [
+          {
+            "uuid": "4754e6d16f1a42ff98b7414a3c936800",
+            "name": "Software",
+            "description": "*****Agentic AI*****",
+            "prizes": [
+              {
+                "uuid": "577b8020f87344ceb226d8828d43eab0",
+                "name": "Winner",
+                "amount": 545,
+                "currency": "USD",
+                "quantity": 1,
+                "desc": "First Prize : ₹50,000",
+                "track_uuid": "4754e6d16f1a42ff98b7414a3c936800",
+                "sponsors": [],
+                "hasWinners": false
+              },
+              {
+                "uuid": "1acf07d720814c6ea49a3867507d6be0",
+                "name": "1st Runner Up",
+                "amount": 381,
+                "currency": "USD",
+                "quantity": 1,
+                "desc": "Second Prize : ₹35,000",
+                "track_uuid": "4754e6d16f1a42ff98b7414a3c936800",
+                "sponsors": [],
+                "hasWinners": false
+              },
+              {
+                "uuid": "7831b9bee480460a81df7484a4f5a51e",
+                "name": "2nd Runner Up",
+                "amount": 272,
+                "currency": "USD",
+                "quantity": 1,
+                "desc": "Third Prize : ₹25,000",
+                "track_uuid": "4754e6d16f1a42ff98b7414a3c936800",
+                "sponsors": [],
+                "hasWinners": false
+              }
+            ],
+            "sponsorUUID": null
+          },
+          {
+            "uuid": "4d4a446faa0749a28e35ff4a6c6d83f6",
+            "name": "Hardware",
+            "description": "*****Industry 4.0*****",
+            "prizes": [
+              {
+                "uuid": "4c4d78d1ad3a4cb7bafa67acf88b3a8f",
+                "name": "Winner",
+                "amount": 218,
+                "currency": "USD",
+                "quantity": 1,
+                "desc": "First Prize : ₹20,000",
+                "track_uuid": "4d4a446faa0749a28e35ff4a6c6d83f6",
+                "sponsors": [],
+                "hasWinners": false
+              },
+              {
+                "uuid": "532e688c1e1942edb41d37e1395cfe39",
+                "name": "1st Runner Up",
+                "amount": 109,
+                "currency": "USD",
+                "quantity": 1,
+                "desc": "Second Prize : ₹10,000",
+                "track_uuid": "4d4a446faa0749a28e35ff4a6c6d83f6",
+                "sponsors": [],
+                "hasWinners": false
+              }
+            ],
+            "sponsorUUID": null
+          }
+        ],
+        "prizes": [],
+        "totalPrizeAmount": 1525,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "58837c99379d46c28b6e6f571c8d8f32",
+        "name": "CodeCrafters",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "d51849c97e184086a9149038a0f6b4d9",
+            "name": "1st Prize (For both Software & Hardware)",
+            "amount": 5760,
+            "currency": "USD",
+            "quantity": 2,
+            "desc": "2-year VIP membership",
+            "track_uuid": null,
+            "sponsors": [
+              "58837c99379d46c28b6e6f571c8d8f32"
+            ],
+            "hasWinners": false
+          },
+          {
+            "uuid": "92f70d5bc2ef4248ac8f6c062c771ad4",
+            "name": "2nd Prize (For both Software & Hardware)",
+            "amount": 2880,
+            "currency": "USD",
+            "quantity": 2,
+            "desc": "1-year VIP membership",
+            "track_uuid": null,
+            "sponsors": [
+              "58837c99379d46c28b6e6f571c8d8f32"
+            ],
+            "hasWinners": false
+          },
+          {
+            "uuid": "5a2ec325021443de8c3da95027c3916c",
+            "name": "3rd Prize (For both Software & Hardware)",
+            "amount": 720,
+            "currency": "USD",
+            "quantity": 2,
+            "desc": "6-month VIP membership",
+            "track_uuid": null,
+            "sponsors": [
+              "58837c99379d46c28b6e6f571c8d8f32"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 9360,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "c70dca29537345d69810041da2a7869e",
+        "name": "n8n",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "7cef03f6c7bd4fd6a96aab98d6d8a30e",
+            "name": "n8n Agentic AI builder",
+            "amount": 18000,
+            "currency": "USD",
+            "quantity": 0,
+            "desc": "300x n8n Pro Subscriptions",
+            "track_uuid": null,
+            "sponsors": [
+              "c70dca29537345d69810041da2a7869e"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 18000,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "b70b5227a37449dca0174562335da6a0",
+        "name": "navan.ai",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "717417f8233e46089c7020349edbd909",
+            "name": "navan.ai",
+            "amount": 5650,
+            "currency": "USD",
+            "quantity": 0,
+            "desc": "Access to paid community on Skool (worth $19/month per member), Access to https://sam.navan.ai to the teams reaching the final stage of the hackathon - our multi-agent development framework",
+            "track_uuid": null,
+            "sponsors": [
+              "b70b5227a37449dca0174562335da6a0"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 5650,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "b694577ec8c24e0199062f458de4d64b",
+        "name": ".xyz",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "cfee3fef84d341c7ac2a18275ed7fae9",
+            "name": "One year free Domain",
+            "amount": 1500,
+            "currency": "USD",
+            "quantity": 0,
+            "desc": "Every team will get one domain from us to host thier projects, the domain shall stay valid for a duration of 1 year.",
+            "track_uuid": null,
+            "sponsors": [
+              "b694577ec8c24e0199062f458de4d64b"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 1500,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "6909bb39ce184cca94734f2336401c7a",
+        "name": "ecertify",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "135ab46cc526409f8080f8cc7f84cce5",
+            "name": "Ecertify",
+            "amount": 50,
+            "currency": "USD",
+            "quantity": 0,
+            "desc": "All participants shall get e-certificates",
+            "track_uuid": null,
+            "sponsors": [
+              "6909bb39ce184cca94734f2336401c7a"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 50,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "b3821e5a67534ec8991208ba4b0ca874",
+        "name": "Featherless AI",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "83ef6619a4aa49d2b6ae6d6e3ab72fc3",
+            "name": "Featherless AI",
+            "amount": 5200,
+            "currency": "USD",
+            "quantity": 0,
+            "desc": "Every individual gets access to Premuim Access to Featherless AI platform to use any LLM model. ($20 per person)",
+            "track_uuid": null,
+            "sponsors": [
+              "b3821e5a67534ec8991208ba4b0ca874"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 5200,
+        "totalPrizeCurrency": "USD"
+      },
+      {
+        "uuid": "8a68607105f94372b79e1a43f7bf364b",
+        "name": "InterviewBuddy",
+        "logo": null,
+        "desc": null,
+        "type": "sponsor",
+        "tracks": [],
+        "prizes": [
+          {
+            "uuid": "87feaddc98e948bcbbd715fec6c9422e",
+            "name": "InterviewBuddy",
+            "amount": 100,
+            "currency": "USD",
+            "quantity": 0,
+            "desc": "Winners: High-value credits to level up their interview game , Runners-up: Moderate credits to practice and improve, Participants: Discount coupons to get started",
+            "track_uuid": null,
+            "sponsors": [
+              "8a68607105f94372b79e1a43f7bf364b"
+            ],
+            "hasWinners": false
+          }
+        ],
+        "totalPrizeAmount": 100,
+        "totalPrizeCurrency": "USD"
+      }
+    ],
+    "hasProjects": false,
+    "judges": [],
+    "dehydratedState": {
+      "mutations": [],
+      "queries": [
+        {
+          "state": {
+            "data": [
+              {
+                "hackathons": [
+                  {
+                    "uuid": "ed8b373fa4844d128ad9df7a56c4c5d5",
+                    "slug": "hackanova-5-0",
+                    "name": "HACKANOVA 5.O",
+                    "type": "HACKATHON",
+                    "city": "Mumbai",
+                    "country": "India",
+                    "location": "Thakur College of Engineering and Technology, Thakur Road, ठाकुर, Thakur Village, Kandivali East, Mumbai, Maharashtra, India",
+                    "tagline": "Break the Loop, Create the Future",
+                    "timezone": "Asia/Kolkata",
+                    "desc": "# OVERVIEW\n\nThakur College of Engineering & Technology is pleased to announce the 5th edition of Hackanova, our most awaited technical event. The theme of Hackanova 5.0 is **Break the loop, Create the future**.\n\nThis year, we’re introducing *two tracks* for Hackanova 5.0:\n\n- *Software Track: Focusing on innovations in **Agentic AI***.\n- *Hardware Track: Focusing on development in **Industry 4.0***.\n\n## How to Apply\n* Your Idea should be related to Agentic AI or Industry 4.0. It can be a mobile app, a web app, or any hardware-based project you find relevant to the theme.\n* Use the [Idea Submission Template (Software Track)](https://drive.google.com/drive/folders/1xYl7WghR8fyoQ1DjmPpzvlAqfS7zf6Qc?usp=sharing) to prepare a PPT for your idea (Software Track).\n* Use the [Idea Submission Template (Hardware Track)](https://drive.google.com/drive/u/7/folders/10NdKdO-uq5Krs8rEQO40eqaVDN-GU3kV) to prepare a PPT for your idea (Hardware Track).\n* All team members must upload the same PPT to the application form.\n* The team leader must also fill this form:  \n\n   - *For Software Track*: [Software Track Leader Form](https://forms.gle/c3m6YWqTNbkPg2kq9)  \n   - *For Hardware Track*: [Hardware Track Leader Form](https://forms.gle/KrNxgG6ariBNEqWc8)  \n\n* The team leader should *Create a Team* and share the invite code with their teammates.\n* Once all team members have joined, they can submit their application.\n\n*Note*:  \n1. Individual applications will not be entertained. Kindly apply in a team of minimum 2 members and maximum 4 members.  \n2. There will be a different set of problem statements in the final offline round.",
+                    "cover_img": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/assets/cover/933.png",
+                    "favicon": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/assets/favicon/10.png",
+                    "apply_mode": "both",
+                    "devfolio_official": null,
+                    "starts_at": "2026-03-13T04:30:00+00:00",
+                    "ends_at": "2026-03-14T16:00:00+00:00",
+                    "is_online": false,
+                    "rating": 0,
+                    "brand": null,
+                    "tracks": [],
+                    "edition": null,
+                    "settings": {
+                      "reg_starts_at": "2026-01-28T08:30:00+00:00",
+                      "reg_ends_at": "2026-03-10T18:45:00+00:00",
+                      "external_apply_url": null,
+                      "leaderboard_enabled": false,
+                      "logo": "https://assets.devfolio.co/hackathons/ed8b373fa4844d128ad9df7a56c4c5d5/assets/logo/210.png",
+                      "quadratic_voting_enabled": false,
+                      "quadratic_voting_results_announced": false,
+                      "quadratic_voting_starts_at": null,
+                      "quadratic_voting_ends_at": null,
+                      "v2_application_enabled": false,
+                      "hide_projects": false,
+                      "mentor_booking_enabled": false,
+                      "mentorship_starts_at": null
+                    },
+                    "themes": [
+                      {
+                        "theme": {
+                          "name": "No Restrictions"
+                        }
+                      }
+                    ],
+                    "prizes": [
+                      {
+                        "uuid": "5a2ec325021443de8c3da95027c3916c"
+                      }
+                    ],
+                    "judges": []
+                  }
+                ]
+              },
+              {
+                "count": 0
+              },
+              []
+            ],
+            "dataUpdateCount": 1,
+            "dataUpdatedAt": 1773419982245,
+            "error": null,
+            "errorUpdateCount": 0,
+            "errorUpdatedAt": 0,
+            "fetchFailureCount": 0,
+            "fetchMeta": null,
+            "isFetching": false,
+            "isInvalidated": false,
+            "isPaused": false,
+            "status": "success"
+          },
+          "queryKey": [
+            "hackathonMicrositeHeader",
+            "hackanova-5-0"
+          ],
+          "queryHash": "[\"hackathonMicrositeHeader\",\"hackanova-5-0\"]"
+        }
+      ]
+    }
+  },
+  "__N_SSG": true
+}

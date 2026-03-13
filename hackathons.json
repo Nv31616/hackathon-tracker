@@ -1,0 +1,1698 @@
+{
+    "pageProps": {
+        "dehydratedState": {
+            "mutations": [],
+            "queries": [
+                {
+                    "state": {
+                        "data": {
+                            "open_hackathons": [
+                                {
+                                    "uuid": "f95073cec4d948d3b3210cd179e17ec0",
+                                    "slug": "hackjklu-v5",
+                                    "name": "HackJKLU v5.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-13T02:30:00+00:00",
+                                    "ends_at": "2026-03-15T12:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 1066,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "1b1d6436eaa44cdba21d86a953a83815",
+                                            "username": "codewitharyan",
+                                            "last_name": "katariya",
+                                            "first_name": "Aryan",
+                                            "profile_image": "https://assets.devfolio.co/users/1b1d6436eaa44cdba21d86a953a83815/avatar-3b0daaf8-75aa-4549-a3c0-62874fb4c6a1.jpeg"
+                                        },
+                                        {
+                                            "uuid": "98f449eccbe54a9b952f59ba4bd2bed7",
+                                            "username": "Narendra5264",
+                                            "last_name": "Kumar",
+                                            "first_name": "Narendra",
+                                            "profile_image": "https://assets.devfolio.co/users/98f449eccbe54a9b952f59ba4bd2bed7/avatar-31840c7e-9c2f-4b5f-8fd0-93757327ef14.jpeg"
+                                        },
+                                        {
+                                            "uuid": "f4ff492e54904e60ad32c7bbf966b858",
+                                            "username": "ChinmayBhattt",
+                                            "last_name": "Bhatt",
+                                            "first_name": "Chinmay",
+                                            "profile_image": "https://assets.devfolio.co/users/f4ff492e54904e60ad32c7bbf966b858/avatar-82aa5250-28dd-402f-b57d-c8697c837296.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-08T16:30:00+00:00",
+                                        "reg_starts_at": "2026-01-21T08:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://www.hackjklu.com",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/VwkazmYJm6",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/hackjklu/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "ed8b373fa4844d128ad9df7a56c4c5d5",
+                                    "slug": "hackanova-5-0",
+                                    "name": "HACKANOVA 5.O",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-13T04:30:00+00:00",
+                                    "ends_at": "2026-03-14T16:00:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Kolkata",
+                                    "participants_count": 1149,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "5c739e8b22ae47449811e8dcc9b88067",
+                                            "username": "yuraj1247",
+                                            "last_name": "Chinarathod",
+                                            "first_name": "Yuraj",
+                                            "profile_image": "https://assets.devfolio.co/users/5c739e8b22ae47449811e8dcc9b88067/avatar-238a88e7-9fc5-42e2-94fe-b96baf058ff2.jpeg"
+                                        },
+                                        {
+                                            "uuid": "fa9ad44fa697432b8466460644fab415",
+                                            "username": "Shubham036",
+                                            "last_name": "Chaurasiya",
+                                            "first_name": "Shubham",
+                                            "profile_image": "https://assets.devfolio.co/users/fa9ad44fa697432b8466460644fab415/avatar-a9080a17-4425-4c96-b1c7-fcdbd0a13d2e.jpeg"
+                                        },
+                                        {
+                                            "uuid": "469423225cc140fb9ff76b6bffa33bb7",
+                                            "username": "darshan_chhajed",
+                                            "last_name": "Chhajed",
+                                            "first_name": "Darshan",
+                                            "profile_image": "https://assets.devfolio.co/users/469423225cc140fb9ff76b6bffa33bb7/avatar-3bc3600e-bee2-4bf5-9451-99d17d987991.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-09T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-28T08:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://www.tsdw.in/",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/FN9WVwfvdF",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/tcet_tsdw/6",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "74c5e8e222544840aedf64972575ddea",
+                                    "slug": "dropouthacks",
+                                    "name": "DropoutHacks",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-28T06:30:00+00:00",
+                                    "ends_at": "2026-03-29T08:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 967,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "25412801856f4c57ab519d7977bda0b6",
+                                            "username": "insane_odyssey",
+                                            "last_name": "Ali",
+                                            "first_name": "Sk Masum",
+                                            "profile_image": "https://assets.devfolio.co/users/25412801856f4c57ab519d7977bda0b6/avatar-f5690879-1afb-4b5d-ad6c-1ff37df5fe2c.jpeg"
+                                        },
+                                        {
+                                            "uuid": "00192e8c65ee4ed18ff8708462b1ac4b",
+                                            "username": "B_Gourav05",
+                                            "last_name": "GOURAV",
+                                            "first_name": "BIHAR",
+                                            "profile_image": "https://assets.devfolio.co/users/00192e8c65ee4ed18ff8708462b1ac4b/avatar-89f90f27-a571-4ed0-8d04-28a7bf2658d8.jpeg"
+                                        },
+                                        {
+                                            "uuid": "1557475782ba4536ad3daab59a2db469",
+                                            "username": "gauravnetes",
+                                            "last_name": "Chandra",
+                                            "first_name": "Gourav",
+                                            "profile_image": "https://assets.devfolio.co/users/1557475782ba4536ad3daab59a2db469/avatar-41e1eed9-9616-48ce-9d6c-e0b2df119db9.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-09T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-16T06:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://www.dropouthacks.tech/",
+                                        "twitter": "https://x.com/dropouthacks",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/hmU2TssPf9",
+                                        "medium": null,
+                                        "instagram": "https://instagram.com/dropouthacks",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "23aac61b8bfa43c8905efd1b12793c6d",
+                                    "slug": "base-batches-startup-track-3",
+                                    "name": "Base Batches 003: Startup Track",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-02-17T08:15:00+00:00",
+                                    "ends_at": "2026-03-10T06:59:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": false,
+                                    "rating": 0,
+                                    "timezone": "America/Los_Angeles",
+                                    "participants_count": 2600,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "05157f272ed3471aaa7d7034dc1c6db6",
+                                            "username": "Jhinn",
+                                            "last_name": "Marsh",
+                                            "first_name": "James",
+                                            "profile_image": "https://assets.devfolio.co/users/05157f272ed3471aaa7d7034dc1c6db6/avatar-363f55ec-4fe3-4412-92e5-ca8c0f9f2339.jpeg"
+                                        },
+                                        {
+                                            "uuid": "c89a8168a8a1404996badfbfd494c792",
+                                            "username": "mateodazab",
+                                            "last_name": "Daza",
+                                            "first_name": "Mateo",
+                                            "profile_image": "https://assets.devfolio.co/users/c89a8168a8a1404996badfbfd494c792/avatar-a95ebc78-fe09-4728-951f-94759c1d2429.jpeg"
+                                        },
+                                        {
+                                            "uuid": "4e5649834c55455dbbfc7539374f13db",
+                                            "username": "edmond",
+                                            "last_name": "CHOI",
+                                            "first_name": "JUNPYO",
+                                            "profile_image": "https://assets.devfolio.co/users/4e5649834c55455dbbfc7539374f13db/avatar-9d47b30e-8f03-42bd-a187-3af7fcac414b.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-10T06:59:00+00:00",
+                                        "reg_starts_at": "2026-02-16T14:20:00+00:00",
+                                        "review": true,
+                                        "site": null,
+                                        "twitter": "https://x.com/base",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": "https://assets.devfolio.co/content/aa57912269044a0eb95f17f6d31e10bf/62788e1c-2cda-4544-96c9-bd2f19ccf816.png",
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "d3595c8783b743b4b3a238064d4144f7",
+                                    "slug": "hacktropica2k26",
+                                    "name": "Hacktropica 2k26",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-04T04:30:00+00:00",
+                                    "ends_at": "2026-04-05T08:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 2370,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "d8608ad06bf84701a3a0dfd1cf653d8a",
+                                            "username": "Ayushnan",
+                                            "last_name": "Mukherjee",
+                                            "first_name": "Ayushman",
+                                            "profile_image": "https://assets.devfolio.co/users/d8608ad06bf84701a3a0dfd1cf653d8a/avatar-6d5b13ed-6e95-4645-bebf-1fe5c5196345.jpeg"
+                                        },
+                                        {
+                                            "uuid": "345b5af62b3b44baa7055f82d57974de",
+                                            "username": "Debaditya9",
+                                            "last_name": "Saha",
+                                            "first_name": "Debaditya",
+                                            "profile_image": "https://assets.devfolio.co/users/345b5af62b3b44baa7055f82d57974de/avatar-0ce29e48-2dd1-40a1-a2f9-0b7d170ccfc1.jpeg"
+                                        },
+                                        {
+                                            "uuid": "3521054259874ebc8fd7f29789c638c9",
+                                            "username": "AkibShann",
+                                            "last_name": "Ahammed",
+                                            "first_name": "Sk Akib",
+                                            "profile_image": "https://assets.devfolio.co/users/3521054259874ebc8fd7f29789c638c9/avatar-fd283bee-3a04-4c53-9032-bfbb1ffa89c5.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-10T18:29:00+00:00",
+                                        "reg_starts_at": "2025-12-31T18:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://hacktropica.xyz",
+                                        "twitter": "https://x.com/HackTropica",
+                                        "facebook": null,
+                                        "telegram": "https://t.me/hacktropica_2026",
+                                        "discord": "https://discord.gg/hVnraAzWU6",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/hacktropica",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "235d5d9b835f46d481cd4c08032adfb5",
+                                    "slug": "electrothon-8",
+                                    "name": "Electrothon 8.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-13T06:30:00+00:00",
+                                    "ends_at": "2026-03-15T04:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 2598,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "89ba59fd04114a249aa20d8845332140",
+                                            "username": "ysinghc",
+                                            "last_name": "Chauhan",
+                                            "first_name": "Yuvraj",
+                                            "profile_image": "https://assets.devfolio.co/users/89ba59fd04114a249aa20d8845332140/avatar-b941d0fb-675a-49ae-a721-09e35ac6ebf2.jpeg"
+                                        },
+                                        {
+                                            "uuid": "a96d5c67bb6e4752b32164390696ad08",
+                                            "username": "Vishalvats12",
+                                            "last_name": "Vats",
+                                            "first_name": "Vishal",
+                                            "profile_image": "https://assets.devfolio.co/users/a96d5c67bb6e4752b32164390696ad08/avatar-fd04164d-ae1f-404f-898d-112bb8cc937d.jpeg"
+                                        },
+                                        {
+                                            "uuid": "14a186ebfbc144fa9305442739b45bf9",
+                                            "username": "sawansaini8755",
+                                            "last_name": "Saini",
+                                            "first_name": "Sawan",
+                                            "profile_image": "https://assets.devfolio.co/users/14a186ebfbc144fa9305442739b45bf9/avatar-ade90a6f-309a-4a43-b41c-e19fd93fa810.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-10T18:29:00+00:00",
+                                        "reg_starts_at": "2025-12-15T11:30:00+00:00",
+                                        "review": false,
+                                        "site": null,
+                                        "twitter": "https://x.com/SPEC__NITH",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/PsWnZtUvDF",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/s.p.e.c_nith/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "b7a631ef5d6c44abaf06a63b39d83a29",
+                                    "slug": "techhacks2-0",
+                                    "name": "TechHacks 2.0 Hack4Hope",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-14T03:30:00+00:00",
+                                    "ends_at": "2026-03-15T03:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 48,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "5fc89709df7f4b629c1b6a87ea4f6476",
+                                            "username": "Dinesh_xo",
+                                            "last_name": "S",
+                                            "first_name": "DINESH",
+                                            "profile_image": "https://assets.devfolio.co/users/5fc89709df7f4b629c1b6a87ea4f6476/avatar-ad4ef297-47dc-47a7-9478-437666fd11bc.jpeg"
+                                        },
+                                        {
+                                            "uuid": "a6dfe962ea714fef8eca2e1442c37fd4",
+                                            "username": "butter_05",
+                                            "last_name": "Srivastava",
+                                            "first_name": "Aditya",
+                                            "profile_image": "https://assets.devfolio.co/users/a6dfe962ea714fef8eca2e1442c37fd4/avatar-e58a7363-4b02-4774-98a0-65a016172d50.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-10T18:29:00+00:00",
+                                        "reg_starts_at": "2026-03-02T07:15:00+00:00",
+                                        "review": false,
+                                        "site": null,
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "c81c64c3df344a249e9508152334366d",
+                                    "slug": "innovat3",
+                                    "name": "INNOVAT3",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-14T01:30:00+00:00",
+                                    "ends_at": "2026-03-15T13:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 400,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "5c739e8b22ae47449811e8dcc9b88067",
+                                            "username": "yuraj1247",
+                                            "last_name": "Chinarathod",
+                                            "first_name": "Yuraj",
+                                            "profile_image": "https://assets.devfolio.co/users/5c739e8b22ae47449811e8dcc9b88067/avatar-238a88e7-9fc5-42e2-94fe-b96baf058ff2.jpeg"
+                                        },
+                                        {
+                                            "uuid": "240239d822a04c51a6f0785ab38482f5",
+                                            "username": "zaxswer",
+                                            "last_name": "Mondal",
+                                            "first_name": "Debapriya",
+                                            "profile_image": "https://assets.devfolio.co/users/240239d822a04c51a6f0785ab38482f5/avatar-54ba06df-d0fc-4a55-85ff-7efefbf6f07e.jpeg"
+                                        },
+                                        {
+                                            "uuid": "15006625cb774f449b52011b19d4f736",
+                                            "username": "Xolo_",
+                                            "last_name": "Banik",
+                                            "first_name": "Prithvi Raj",
+                                            "profile_image": "https://assets.devfolio.co/users/15006625cb774f449b52011b19d4f736/avatar-1d66066f-b707-474d-97b0-99559d8f7a97.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "Blockchain"
+                                            }
+                                        },
+                                        {
+                                            "theme": {
+                                                "name": "FinTech"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-12T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-18T18:30:00+00:00",
+                                        "review": true,
+                                        "site": "https://innovat3.vercel.app",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/innovat3.iem/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "b0843261d0f74f4288819776d78bea5a",
+                                    "slug": "hacktonix-26",
+                                    "name": "Hacktonix '26",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-18T04:30:00+00:00",
+                                    "ends_at": "2026-04-19T04:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 469,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "a3310a137309453689694f1709fce035",
+                                            "username": "Sushovan_Ghosh",
+                                            "last_name": "Ghosh",
+                                            "first_name": "Sushovan",
+                                            "profile_image": "https://assets.devfolio.co/users/a3310a137309453689694f1709fce035/avatar-6db111cb-bd22-4639-9f32-f7bcb3684cd0.jpeg"
+                                        },
+                                        {
+                                            "uuid": "164cd6d110b0491795e113fefe90bd72",
+                                            "username": "SuparnaPanda",
+                                            "last_name": "Panda",
+                                            "first_name": "Suparna",
+                                            "profile_image": "https://assets.devfolio.co/users/164cd6d110b0491795e113fefe90bd72/avatar-5b57d815-6346-4132-977d-8d17280e5d98.jpeg"
+                                        },
+                                        {
+                                            "uuid": "2ed13fef9d2e4f779da22ea0ea3cb7d7",
+                                            "username": "DevarghoC",
+                                            "last_name": "Chakraborty",
+                                            "first_name": "Devargho",
+                                            "profile_image": "https://assets.devfolio.co/users/2ed13fef9d2e4f779da22ea0ea3cb7d7/avatar-cb583c1d-d4e7-4887-bff2-0bea7533d2e9.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-13T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-14T18:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://hacktonix.phnx.in",
+                                        "twitter": null,
+                                        "facebook": "https://go.phnx.in/facebook",
+                                        "telegram": null,
+                                        "discord": "https://go.phnx.in/discord",
+                                        "medium": null,
+                                        "instagram": "https://go.phnx.in/instagram",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "13569c53a7bd4229842eff1e9f7e5f51",
+                                    "slug": "hacknova-3",
+                                    "name": "HackNova 3.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-17T04:30:00+00:00",
+                                    "ends_at": "2026-03-18T04:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 343,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "2c86a00d472941a1ae8b720b106d2df4",
+                                            "username": "dany0202020",
+                                            "last_name": "Mulay",
+                                            "first_name": "Dnyanesh",
+                                            "profile_image": "https://assets.devfolio.co/users/2c86a00d472941a1ae8b720b106d2df4/avatar-3d671774-dba5-48e0-af4b-676bebaa6ca0.jpeg"
+                                        },
+                                        {
+                                            "uuid": "a59bee8b9b6343a09898c9a1776fdb08",
+                                            "username": "sanjai_5",
+                                            "last_name": "Shaarugesh",
+                                            "first_name": "Sanjai",
+                                            "profile_image": "https://assets.devfolio.co/users/a59bee8b9b6343a09898c9a1776fdb08/avatar-d8f54a32-16db-4097-8500-5f3d96571287.jpeg"
+                                        },
+                                        {
+                                            "uuid": "40690997d74e4624a99d365326fbb56c",
+                                            "username": "Atharvaa__",
+                                            "last_name": "Bandurkar",
+                                            "first_name": "Atharva",
+                                            "profile_image": "https://assets.devfolio.co/users/40690997d74e4624a99d365326fbb56c/avatar-33ebf5d3-28a0-4bfa-abe9-e3ae59492b4f.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-13T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-14T18:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://hacknova.nsccsrm.in/",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/SSZvy4p5dR",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/nscc_srm",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "dd92b0d8e2ce45e8a236f5cbca36090c",
+                                    "slug": "hack2future",
+                                    "name": "Hack2Future 2.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-04T04:00:00+00:00",
+                                    "ends_at": "2026-04-05T13:00:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 166,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "2ce580bb1afa43aa804214369c383c3c",
+                                            "username": "sayanadhikary",
+                                            "last_name": "Adhikary",
+                                            "first_name": "Sayan",
+                                            "profile_image": "https://assets.devfolio.co/users/2ce580bb1afa43aa804214369c383c3c/avatar-ec3b3677-a3c8-46c6-b5cb-3a5da86aacf5.jpeg"
+                                        },
+                                        {
+                                            "uuid": "1f6bf03f333f46c8969f7e955d385806",
+                                            "username": "sanchitx1",
+                                            "last_name": "Gupta",
+                                            "first_name": "Sanchit",
+                                            "profile_image": "https://assets.devfolio.co/users/1f6bf03f333f46c8969f7e955d385806/avatar-b0c48206-a651-4dc2-ba7f-737151c28ef4.jpeg"
+                                        },
+                                        {
+                                            "uuid": "abe282e29dc143249c0d9bf307fb4d7c",
+                                            "username": "Sov_ereign",
+                                            "last_name": "Gorai",
+                                            "first_name": "Somenath",
+                                            "profile_image": "https://assets.devfolio.co/users/abe282e29dc143249c0d9bf307fb4d7c/avatar-53eb3a25-9b0a-474c-aa1d-e97b46d547bd.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-15T11:30:00+00:00",
+                                        "reg_starts_at": "2026-03-04T11:30:00+00:00",
+                                        "review": true,
+                                        "site": "https://hack2future.iiitdwd.ac.in",
+                                        "twitter": "https://x.com/hack2future_",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/pDs7HhJK",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/h2f.iiitdwd?igsh=dWZscmx3cGNsbHBj",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "48884212b8a94d0b9d9f6aba3478497d",
+                                    "slug": "stellaris",
+                                    "name": "Stellaris",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-28T03:30:00+00:00",
+                                    "ends_at": "2026-03-29T05:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 528,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "2b7152104724488c8fad3d7f527c11c2",
+                                            "username": "0xarchit",
+                                            "last_name": "Jain",
+                                            "first_name": "Archit",
+                                            "profile_image": "https://assets.devfolio.co/users/2b7152104724488c8fad3d7f527c11c2/avatar-858a8f53-74e1-4bfb-bc23-a5b5ec36353b.jpeg"
+                                        },
+                                        {
+                                            "uuid": "46b8d2b4ad624d40b45ac616bbc2575b",
+                                            "username": "vxrachit",
+                                            "last_name": "Verma",
+                                            "first_name": "Rachit",
+                                            "profile_image": "https://assets.devfolio.co/users/46b8d2b4ad624d40b45ac616bbc2575b/avatar-8b6ae1a4-2a66-45ea-9a00-f15542312b5e.jpeg"
+                                        },
+                                        {
+                                            "uuid": "0d9fd698b8044dbb926fe346e9a2af50",
+                                            "username": "synapticpush",
+                                            "last_name": "Sharma",
+                                            "first_name": "Pushpendra",
+                                            "profile_image": "https://assets.devfolio.co/users/0d9fd698b8044dbb926fe346e9a2af50/avatar-becfcf9e-f7d0-4b6b-ac1c-9bd8a11cfa09.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "Blockchain"
+                                            }
+                                        },
+                                        {
+                                            "theme": {
+                                                "name": "FinTech"
+                                            }
+                                        },
+                                        {
+                                            "theme": {
+                                                "name": "AI/ML"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-15T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-15T00:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://stellaris.elixircommunity.in",
+                                        "twitter": "https://x.com/TheElixirTech",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/vkkBGt7eHY",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/geeksforgeeks_abesec",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "f4dd0766a3d14a278052be6f78f53bb8",
+                                    "slug": "dotslash-9",
+                                    "name": "DotSlash 9.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-21T03:30:00+00:00",
+                                    "ends_at": "2026-03-22T08:00:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 974,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "d05ed7781d5a4989a270ea8250e2d768",
+                                            "username": "0day_Ashish",
+                                            "last_name": "Ranjan Das",
+                                            "first_name": "Ashish",
+                                            "profile_image": "https://assets.devfolio.co/users/d05ed7781d5a4989a270ea8250e2d768/avatar-9dd8f030-4b60-481a-b2b2-cd7b9a620d2a.jpeg"
+                                        },
+                                        {
+                                            "uuid": "cea134d0c0734642ad886cdaf6d50993",
+                                            "username": "SANJu043",
+                                            "last_name": "SANAPALA",
+                                            "first_name": "SANJAY",
+                                            "profile_image": "https://assets.devfolio.co/users/cea134d0c0734642ad886cdaf6d50993/avatar-6c6ab5e9-9911-4ced-87a5-9c32912e48ca.jpeg"
+                                        },
+                                        {
+                                            "uuid": "d08d5397d2f8412c993f71b3a59cece9",
+                                            "username": "playerX007",
+                                            "last_name": "Chokshi",
+                                            "first_name": "Naiteek",
+                                            "profile_image": "https://assets.devfolio.co/users/d08d5397d2f8412c993f71b3a59cece9/avatar-711f6d12-c737-4050-aab8-06b77db8f076.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-15T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-19T01:00:00+00:00",
+                                        "review": false,
+                                        "site": null,
+                                        "twitter": "https://x.com/hackatdotslash",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.com/invite/MEG97KgEyP",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/hackatdotslash/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "333c22e643504f8da5aa7b0c60751e10",
+                                    "slug": "semicon-semixthon",
+                                    "name": "SemiXthon",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-27T03:30:00+00:00",
+                                    "ends_at": "2026-03-27T13:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 170,
+                                    "participants_details": [],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "HealthTech"
+                                            }
+                                        },
+                                        {
+                                            "theme": {
+                                                "name": "IoT/Hardware"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-17T18:30:00+00:00",
+                                        "reg_starts_at": "2026-01-31T18:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://semicondtu.com/semiXthon/index.html",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "db977392d773400bb66a9cd8cfb81787",
+                                    "slug": "hackbyte4",
+                                    "name": "HackByte 4․0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-03T13:30:00+00:00",
+                                    "ends_at": "2026-04-05T02:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 2355,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "46382583d0ee414096f3acd438d491e7",
+                                            "username": "mohd_shayan",
+                                            "last_name": "Qureshi",
+                                            "first_name": "Mohd. Shayan",
+                                            "profile_image": "https://assets.devfolio.co/users/46382583d0ee414096f3acd438d491e7/avatar-dcc586e6-ecf1-411a-87dc-438fd2854117.jpeg"
+                                        },
+                                        {
+                                            "uuid": "46b8d2b4ad624d40b45ac616bbc2575b",
+                                            "username": "vxrachit",
+                                            "last_name": "Verma",
+                                            "first_name": "Rachit",
+                                            "profile_image": "https://assets.devfolio.co/users/46b8d2b4ad624d40b45ac616bbc2575b/avatar-8b6ae1a4-2a66-45ea-9a00-f15542312b5e.jpeg"
+                                        },
+                                        {
+                                            "uuid": "37ff51854b164267a641ad791a791667",
+                                            "username": "Derivity",
+                                            "last_name": "Mishra",
+                                            "first_name": "Akshat",
+                                            "profile_image": "https://assets.devfolio.co/users/37ff51854b164267a641ad791a791667/avatar-b8f7cf73-4315-4369-a392-e9042a5af865.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-18T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-06T11:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://www.hackbyte.in/",
+                                        "twitter": "https://x.com/HackbyteTPC",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.com/invite/NTueHjdPn8",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/hackbyte.tpc",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "07f54c3561074b1daa12c9292c760c0f",
+                                    "slug": "hackniche4-0",
+                                    "name": "HackNiche 4.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-25T05:30:00+00:00",
+                                    "ends_at": "2026-03-26T05:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 533,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "4b76e67ff7ab4feab2f92cfe3d10c32a",
+                                            "username": "SujalShukla",
+                                            "last_name": "Shukla",
+                                            "first_name": "Sujal",
+                                            "profile_image": "https://assets.devfolio.co/users/4b76e67ff7ab4feab2f92cfe3d10c32a/avatar-63c66337-7349-45ac-a9bb-0bf23392df0d.jpeg"
+                                        },
+                                        {
+                                            "uuid": "65c67da030a04523a2170750107cfd1b",
+                                            "username": "yuva213",
+                                            "last_name": "S",
+                                            "first_name": "YUVARAJ",
+                                            "profile_image": "https://assets.devfolio.co/users/65c67da030a04523a2170750107cfd1b/avatar-83df1cd8-f445-4cee-8e31-b6fe13552c77.jpeg"
+                                        },
+                                        {
+                                            "uuid": "057ad2b53b344177a300da914dd35a89",
+                                            "username": "Gauravpatil2515",
+                                            "last_name": "Patil",
+                                            "first_name": "Gaurav",
+                                            "profile_image": "https://assets.devfolio.co/users/057ad2b53b344177a300da914dd35a89/avatar-2ebf2494-0092-42b9-bcea-d07412f3a86d.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "AI/ML"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-18T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-23T18:30:00+00:00",
+                                        "review": false,
+                                        "site": null,
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "0f285eaa14774269b7edab852eeb0fd6",
+                                    "slug": "base-batches-robotics-track",
+                                    "name": "Base Batches 003: Robotics Track",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-02-17T08:00:00+00:00",
+                                    "ends_at": "2026-03-21T06:59:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": false,
+                                    "rating": 0,
+                                    "timezone": "America/Los_Angeles",
+                                    "participants_count": 354,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "42f154800a834aff8b518794dc5a7258",
+                                            "username": "alexsalt",
+                                            "last_name": "Salt",
+                                            "first_name": "Alex",
+                                            "profile_image": "https://assets.devfolio.co/users/42f154800a834aff8b518794dc5a7258/avatar-143da9df-a86e-46a6-8a72-3db1ff3a9b12.jpeg"
+                                        },
+                                        {
+                                            "uuid": "2377e32078a143099731f01b688cd35f",
+                                            "username": "omiaydin",
+                                            "last_name": "aydin",
+                                            "first_name": "omer",
+                                            "profile_image": "https://assets.devfolio.co/users/2377e32078a143099731f01b688cd35f/avatar-c0fa1d80-f5a5-4825-95f3-d572a9b1af86.jpeg"
+                                        },
+                                        {
+                                            "uuid": "4df2c38b99734c18b0c25ff673c448a5",
+                                            "username": "Agent2222",
+                                            "last_name": "Oge",
+                                            "first_name": "Starr",
+                                            "profile_image": "https://assets.devfolio.co/users/4df2c38b99734c18b0c25ff673c448a5/avatar-7c88ed89-dc8c-4032-bed5-072018f81c64.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-20T07:00:00+00:00",
+                                        "reg_starts_at": "2026-02-17T08:00:00+00:00",
+                                        "review": true,
+                                        "site": null,
+                                        "twitter": "https://x.com/base",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": "https://assets.devfolio.co/content/aa57912269044a0eb95f17f6d31e10bf/62788e1c-2cda-4544-96c9-bd2f19ccf816.png",
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "d8f59f44a48e4610a2a85687628a2cd9",
+                                    "slug": "hacknovate07",
+                                    "name": "Hacknovate-7.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-03T03:30:00+00:00",
+                                    "ends_at": "2026-04-04T09:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 1313,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "5729f7fe5be04325bc0abddf73d2b96c",
+                                            "username": "codevishnu",
+                                            "last_name": "Goswami",
+                                            "first_name": "Vishnu",
+                                            "profile_image": "https://assets.devfolio.co/users/5729f7fe5be04325bc0abddf73d2b96c/avatar-af5ddfd9-204d-40cd-871b-b265715ae76b.jpeg"
+                                        },
+                                        {
+                                            "uuid": "9f426d6f96a64465b40d41eaf60221d3",
+                                            "username": "JodAnsh",
+                                            "last_name": "Thakur",
+                                            "first_name": "Ansh",
+                                            "profile_image": "https://assets.devfolio.co/users/9f426d6f96a64465b40d41eaf60221d3/avatar-5ddaa20a-3793-4292-bd5e-6692d2e55365.jpeg"
+                                        },
+                                        {
+                                            "uuid": "b989df50f086427481e05d85169bda8c",
+                                            "username": "Krishna999",
+                                            "last_name": "Gaur",
+                                            "first_name": "Krishna",
+                                            "profile_image": "https://assets.devfolio.co/users/b989df50f086427481e05d85169bda8c/avatar-42734b67-c850-49c3-b09f-e095d310bb34.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-20T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-16T16:00:00+00:00",
+                                        "review": false,
+                                        "site": "https://hacknovate07.tech",
+                                        "twitter": "https://x.com/hacknovate",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/Hq3YvqmWEd",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/hacknovate.abesit/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "b75f1221cfb74db6a388a637fe10bd39",
+                                    "slug": "hack-hustle",
+                                    "name": "HACK HUSTLE 2.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-16T03:30:00+00:00",
+                                    "ends_at": "2026-04-17T12:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 252,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "5c739e8b22ae47449811e8dcc9b88067",
+                                            "username": "yuraj1247",
+                                            "last_name": "Chinarathod",
+                                            "first_name": "Yuraj",
+                                            "profile_image": "https://assets.devfolio.co/users/5c739e8b22ae47449811e8dcc9b88067/avatar-238a88e7-9fc5-42e2-94fe-b96baf058ff2.jpeg"
+                                        },
+                                        {
+                                            "uuid": "6052f02a2dde48dcae54d60315593020",
+                                            "username": "Hari2526",
+                                            "last_name": "Prasath",
+                                            "first_name": "Hari",
+                                            "profile_image": "https://assets.devfolio.co/users/6052f02a2dde48dcae54d60315593020/avatar-f1e8394c-8ff0-4b18-9faa-171e3f2a1a49.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "FinTech"
+                                            }
+                                        },
+                                        {
+                                            "theme": {
+                                                "name": "AI/ML"
+                                            }
+                                        },
+                                        {
+                                            "theme": {
+                                                "name": "HealthTech"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-20T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-07T06:30:00+00:00",
+                                        "review": true,
+                                        "site": "https://www.hackhustle.live",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/PvcJDJNzyA",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/techsocietysec/#",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "0f7dcc7195734da6a6c04ae7a43d18c3",
+                                    "slug": "hack-heist-2",
+                                    "name": "Hack Heist 2.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-28T03:30:00+00:00",
+                                    "ends_at": "2026-03-29T11:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 275,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "aef5785b39b64c91a456e5af9c33b066",
+                                            "username": "devxoshakya",
+                                            "last_name": "Shakya",
+                                            "first_name": "Dev",
+                                            "profile_image": "https://assets.devfolio.co/users/aef5785b39b64c91a456e5af9c33b066/avatar-ae410e9e-9490-4a74-a86b-fdbc9f06eac0.jpeg"
+                                        },
+                                        {
+                                            "uuid": "a51bcf6ac0a34297a61ab5eefc3d4660",
+                                            "username": "himanshu1104k",
+                                            "last_name": "Kumar",
+                                            "first_name": "Himanshu",
+                                            "profile_image": "https://assets.devfolio.co/users/a51bcf6ac0a34297a61ab5eefc3d4660/avatar-ea32ca34-1904-4e2b-a9f7-08cbcdb1cfed.jpeg"
+                                        },
+                                        {
+                                            "uuid": "70becc86f8db4f3584e3d4ee42ea4c48",
+                                            "username": "absurd_mind",
+                                            "last_name": "Rajvanshi",
+                                            "first_name": "Arya",
+                                            "profile_image": "https://assets.devfolio.co/users/70becc86f8db4f3584e3d4ee42ea4c48/avatar-ceb4a80b-0ccc-4f03-b151-7f02e568b0c0.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-21T18:29:00+00:00",
+                                        "reg_starts_at": "2026-02-26T23:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://www.hackheist2.xyz/",
+                                        "twitter": "https://x.com/gdg_miet",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/gdg_miet",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                }
+                            ],
+                            "past_hackathons": [
+                                {
+                                    "uuid": "16c49a08fafa4c87b948678326373397",
+                                    "slug": "hacknwin-3",
+                                    "name": "Hack-N-Win 3.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-07T03:30:00+00:00",
+                                    "ends_at": "2026-03-08T09:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 2,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 3516,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "3cb1f00befbf482b9ae5edb7f35198fc",
+                                            "username": "codekong",
+                                            "last_name": "Saha",
+                                            "first_name": "Rajdeep",
+                                            "profile_image": "https://assets.devfolio.co/users/3cb1f00befbf482b9ae5edb7f35198fc/avatar-4761a6b2-bdd7-4a4f-872b-f3d7eb87e89a.jpeg"
+                                        },
+                                        {
+                                            "uuid": "6f19aecd7b4a418e8505802da24b7f7f",
+                                            "username": "Terminator12",
+                                            "last_name": "Ghosh",
+                                            "first_name": "Debopam",
+                                            "profile_image": "https://assets.devfolio.co/users/6f19aecd7b4a418e8505802da24b7f7f/avatar-97cc7298-3b82-453e-a02e-1e017ff59751.jpeg"
+                                        },
+                                        {
+                                            "uuid": "65ed9f48416140bc831889c874dc793e",
+                                            "username": "yashit_chugh",
+                                            "last_name": "Chugh",
+                                            "first_name": "Yashit",
+                                            "profile_image": "https://assets.devfolio.co/users/65ed9f48416140bc831889c874dc793e/avatar-7d59d1f1-9b52-451b-9638-0ea54c58a8bb.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-02T11:00:00+00:00",
+                                        "reg_starts_at": "2025-12-13T16:30:00+00:00",
+                                        "review": false,
+                                        "site": null,
+                                        "twitter": "https://x.com/D4Community",
+                                        "facebook": "https://facebook.com/D4Community",
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/tma28TGhN",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/d4community",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "ee873b30698744f6a606f6a4975d611a",
+                                    "slug": "acehack5",
+                                    "name": "AceHack 5.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-07T03:30:00+00:00",
+                                    "ends_at": "2026-03-08T07:15:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 4.4,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 2616,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "0f1a51f260784249be9ef31d65181d80",
+                                            "username": "Sajalgoyal_",
+                                            "last_name": "Goyal",
+                                            "first_name": "Sajal",
+                                            "profile_image": "https://assets.devfolio.co/users/0f1a51f260784249be9ef31d65181d80/avatar-ee649f19-600d-4774-aa58-758b197a74a9.jpeg"
+                                        },
+                                        {
+                                            "uuid": "2abbf7cca0d643ecb8bad54f0df93276",
+                                            "username": "manishoi",
+                                            "last_name": "oberoi",
+                                            "first_name": "Manish",
+                                            "profile_image": "https://assets.devfolio.co/users/2abbf7cca0d643ecb8bad54f0df93276/avatar-4c4167f9-fd0b-43cf-8c22-e6d52e4eeab8.jpeg"
+                                        },
+                                        {
+                                            "uuid": "83efd48d0891422fb64b95618c42dfb4",
+                                            "username": "sahmanish451",
+                                            "last_name": "Sah",
+                                            "first_name": "Manish",
+                                            "profile_image": "https://assets.devfolio.co/users/83efd48d0891422fb64b95618c42dfb4/avatar-9be928f8-3033-4435-8260-9aea9589c0d0.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-07T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-11T13:18:00+00:00",
+                                        "review": false,
+                                        "site": "https://acehack.uem.edu.in/",
+                                        "twitter": "https://twitter.com/AceHack_uemj",
+                                        "facebook": null,
+                                        "telegram": "https://telegram.openinapp.co/acehack",
+                                        "discord": "https://discord.com/invite/yBDmQqYDMK",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/acehack__/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "5c0542af3ad1483c84ee8de4574a111e",
+                                    "slug": "aegis-sandbox-v",
+                                    "name": "Aegis SandBox v2.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-03-07T05:30:00+00:00",
+                                    "ends_at": "2026-03-08T07:00:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 3.4,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 1541,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "1e792906438e4559816a522f51a64b74",
+                                            "username": "NysoyIt69",
+                                            "last_name": "Patra",
+                                            "first_name": "Ankesh",
+                                            "profile_image": "https://assets.devfolio.co/users/1e792906438e4559816a522f51a64b74/avatar-b227b1da-81a4-4cf3-ac73-1f3b21471a32.jpeg"
+                                        },
+                                        {
+                                            "uuid": "b47218cad15f44bc8168bb9a9852db2c",
+                                            "username": "KarthikB001",
+                                            "last_name": "B",
+                                            "first_name": "Karthik",
+                                            "profile_image": "https://assets.devfolio.co/users/b47218cad15f44bc8168bb9a9852db2c/avatar-59ca2fd4-091c-4066-ba71-f36f437756e0.jpeg"
+                                        },
+                                        {
+                                            "uuid": "d2e3593bd8304670804d40301c0c441f",
+                                            "username": "kyledmakess",
+                                            "last_name": "Prasad",
+                                            "first_name": "Nivedhitha",
+                                            "profile_image": "https://assets.devfolio.co/users/d2e3593bd8304670804d40301c0c441f/avatar-3fbffcdd-5074-45a8-8f4a-6df849122176.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-02-28T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-31T18:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://sandbox.aegisclub.site/",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/Rjzndt3BRU",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/dsce_cscy/",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "c82c9c4be7514dc1a903e6845aabb1da",
+                                    "slug": "doubleslash4",
+                                    "name": "DoubleSlash 4.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-01-23T17:00:00+00:00",
+                                    "ends_at": "2026-03-08T05:15:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 1948,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "f352691265904534b1595c5fa38b526c",
+                                            "username": "RANA_RUJ_04",
+                                            "last_name": "RUJ",
+                                            "first_name": "RANA",
+                                            "profile_image": "https://assets.devfolio.co/users/f352691265904534b1595c5fa38b526c/avatar-7ad274c7-971c-480e-9e81-72bdc347eb29.jpeg"
+                                        },
+                                        {
+                                            "uuid": "7a34c25478e44811ba210af5677325f8",
+                                            "username": "arkasnatapal",
+                                            "last_name": "PAL",
+                                            "first_name": "ARKASNATA",
+                                            "profile_image": "https://assets.devfolio.co/users/7a34c25478e44811ba210af5677325f8/avatar-5429b9f7-0c57-451c-8bb6-b4268b19dc7c.jpeg"
+                                        },
+                                        {
+                                            "uuid": "aec9895d91fe4148a509fa1d3d21310e",
+                                            "username": "joydeep06",
+                                            "last_name": "Bera",
+                                            "first_name": "Joydeep",
+                                            "profile_image": "https://assets.devfolio.co/users/aec9895d91fe4148a509fa1d3d21310e/avatar-e4e33dd6-2cf1-478e-a643-38500e021158.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-02-21T18:29:00+00:00",
+                                        "reg_starts_at": "2026-01-23T17:00:00+00:00",
+                                        "review": false,
+                                        "site": "https://doubleslash4.ieee-jaduniv.in/",
+                                        "twitter": "https://x.com/_ieeeju",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": "https://discord.gg/d6pU9zWZTE",
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/_ieeeju",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                }
+                            ],
+                            "upcoming_hackathons": [
+                                {
+                                    "uuid": "58f24f1037e048ffb72094bfb014c4b4",
+                                    "slug": "code-for-change-2026",
+                                    "name": "Code for Change 2.0",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-10T06:30:00+00:00",
+                                    "ends_at": "2026-04-11T08:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 0,
+                                    "participants_details": [],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-24T18:30:00+00:00",
+                                        "reg_starts_at": "2026-03-15T06:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://cfc-hackathon2k26.vercel.app",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": "https://www.instagram.com/codenest_osdc?igsh=MTU5MXRjbng2eW5qNg==",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "39c4cefea2ca48f691b6f6bda825b7c9",
+                                    "slug": "aurum26",
+                                    "name": "Aurum",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-04-11T04:30:00+00:00",
+                                    "ends_at": "2026-04-12T04:30:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": null,
+                                    "rating": 0,
+                                    "timezone": "Asia/Calcutta",
+                                    "participants_count": 0,
+                                    "participants_details": [],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-04-08T18:29:00+00:00",
+                                        "reg_starts_at": "2026-03-10T03:30:00+00:00",
+                                        "review": false,
+                                        "site": "https://aurum26.xyz",
+                                        "twitter": null,
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": "https://instagram.com/csds_dsce",
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": null,
+                                        "external_apply_url": null
+                                    }
+                                }
+                            ],
+                            "featured_hackathons": [
+                                {
+                                    "uuid": "4222e8b537ab48bdbfeda375d8210481",
+                                    "slug": "base-batches-student-track-3",
+                                    "name": "Base Batches 003: Student Track",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-02-17T08:00:00+00:00",
+                                    "ends_at": "2026-04-27T07:00:00+00:00",
+                                    "is_online": true,
+                                    "devfolio_official": false,
+                                    "rating": 0,
+                                    "timezone": "America/Los_Angeles",
+                                    "participants_count": 1469,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "6c1cb56cf3804e0bb753f42ad3e1510e",
+                                            "username": "ravik1",
+                                            "last_name": "Kumar",
+                                            "first_name": "Ravi",
+                                            "profile_image": "https://assets.devfolio.co/users/6c1cb56cf3804e0bb753f42ad3e1510e/avatar-e6ea1cb7-fa03-47b8-baab-49935b7bcbec.jpeg"
+                                        },
+                                        {
+                                            "uuid": "0435d00dc73f470aa14435fefeba3eba",
+                                            "username": "SuryaPrakash512",
+                                            "last_name": "Prakash",
+                                            "first_name": "Surya",
+                                            "profile_image": "https://assets.devfolio.co/users/0435d00dc73f470aa14435fefeba3eba/avatar-61944b77-2703-4558-a0ba-767a96a15a6b.jpeg"
+                                        },
+                                        {
+                                            "uuid": "42f154800a834aff8b518794dc5a7258",
+                                            "username": "alexsalt",
+                                            "last_name": "Salt",
+                                            "first_name": "Alex",
+                                            "profile_image": "https://assets.devfolio.co/users/42f154800a834aff8b518794dc5a7258/avatar-143da9df-a86e-46a6-8a72-3db1ff3a9b12.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-04-27T07:00:00+00:00",
+                                        "reg_starts_at": "2026-02-17T08:00:00+00:00",
+                                        "review": false,
+                                        "site": null,
+                                        "twitter": "https://x.com/base",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": "https://assets.devfolio.co/content/aa57912269044a0eb95f17f6d31e10bf/62788e1c-2cda-4544-96c9-bd2f19ccf816.png",
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "0f285eaa14774269b7edab852eeb0fd6",
+                                    "slug": "base-batches-robotics-track",
+                                    "name": "Base Batches 003: Robotics Track",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-02-17T08:00:00+00:00",
+                                    "ends_at": "2026-03-21T06:59:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": false,
+                                    "rating": 0,
+                                    "timezone": "America/Los_Angeles",
+                                    "participants_count": 354,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "42f154800a834aff8b518794dc5a7258",
+                                            "username": "alexsalt",
+                                            "last_name": "Salt",
+                                            "first_name": "Alex",
+                                            "profile_image": "https://assets.devfolio.co/users/42f154800a834aff8b518794dc5a7258/avatar-143da9df-a86e-46a6-8a72-3db1ff3a9b12.jpeg"
+                                        },
+                                        {
+                                            "uuid": "2377e32078a143099731f01b688cd35f",
+                                            "username": "omiaydin",
+                                            "last_name": "aydin",
+                                            "first_name": "omer",
+                                            "profile_image": "https://assets.devfolio.co/users/2377e32078a143099731f01b688cd35f/avatar-c0fa1d80-f5a5-4825-95f3-d572a9b1af86.jpeg"
+                                        },
+                                        {
+                                            "uuid": "4df2c38b99734c18b0c25ff673c448a5",
+                                            "username": "Agent2222",
+                                            "last_name": "Oge",
+                                            "first_name": "Starr",
+                                            "profile_image": "https://assets.devfolio.co/users/4df2c38b99734c18b0c25ff673c448a5/avatar-7c88ed89-dc8c-4032-bed5-072018f81c64.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-20T07:00:00+00:00",
+                                        "reg_starts_at": "2026-02-17T08:00:00+00:00",
+                                        "review": true,
+                                        "site": null,
+                                        "twitter": "https://x.com/base",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": "https://assets.devfolio.co/content/aa57912269044a0eb95f17f6d31e10bf/62788e1c-2cda-4544-96c9-bd2f19ccf816.png",
+                                        "external_apply_url": null
+                                    }
+                                },
+                                {
+                                    "uuid": "23aac61b8bfa43c8905efd1b12793c6d",
+                                    "slug": "base-batches-startup-track-3",
+                                    "name": "Base Batches 003: Startup Track",
+                                    "type": "HACKATHON",
+                                    "starts_at": "2026-02-17T08:15:00+00:00",
+                                    "ends_at": "2026-03-10T06:59:00+00:00",
+                                    "is_online": false,
+                                    "devfolio_official": false,
+                                    "rating": 0,
+                                    "timezone": "America/Los_Angeles",
+                                    "participants_count": 2600,
+                                    "participants_details": [
+                                        {
+                                            "uuid": "05157f272ed3471aaa7d7034dc1c6db6",
+                                            "username": "Jhinn",
+                                            "last_name": "Marsh",
+                                            "first_name": "James",
+                                            "profile_image": "https://assets.devfolio.co/users/05157f272ed3471aaa7d7034dc1c6db6/avatar-363f55ec-4fe3-4412-92e5-ca8c0f9f2339.jpeg"
+                                        },
+                                        {
+                                            "uuid": "c89a8168a8a1404996badfbfd494c792",
+                                            "username": "mateodazab",
+                                            "last_name": "Daza",
+                                            "first_name": "Mateo",
+                                            "profile_image": "https://assets.devfolio.co/users/c89a8168a8a1404996badfbfd494c792/avatar-a95ebc78-fe09-4728-951f-94759c1d2429.jpeg"
+                                        },
+                                        {
+                                            "uuid": "4e5649834c55455dbbfc7539374f13db",
+                                            "username": "edmond",
+                                            "last_name": "CHOI",
+                                            "first_name": "JUNPYO",
+                                            "profile_image": "https://assets.devfolio.co/users/4e5649834c55455dbbfc7539374f13db/avatar-9d47b30e-8f03-42bd-a187-3af7fcac414b.jpeg"
+                                        }
+                                    ],
+                                    "themes": [
+                                        {
+                                            "theme": {
+                                                "name": "No Restrictions"
+                                            }
+                                        }
+                                    ],
+                                    "settings": {
+                                        "reg_ends_at": "2026-03-10T06:59:00+00:00",
+                                        "reg_starts_at": "2026-02-16T14:20:00+00:00",
+                                        "review": true,
+                                        "site": null,
+                                        "twitter": "https://x.com/base",
+                                        "facebook": null,
+                                        "telegram": null,
+                                        "discord": null,
+                                        "medium": null,
+                                        "instagram": null,
+                                        "slack": null,
+                                        "featured_cover_img": null,
+                                        "featured_cover_img_v2": "https://assets.devfolio.co/content/aa57912269044a0eb95f17f6d31e10bf/62788e1c-2cda-4544-96c9-bd2f19ccf816.png",
+                                        "external_apply_url": null
+                                    }
+                                }
+                            ]
+                        },
+                        "dataUpdateCount": 1,
+                        "dataUpdatedAt": 1772972934665,
+                        "error": null,
+                        "errorUpdateCount": 0,
+                        "errorUpdatedAt": 0,
+                        "fetchFailureCount": 0,
+                        "fetchMeta": null,
+                        "isFetching": false,
+                        "isInvalidated": false,
+                        "isPaused": false,
+                        "status": "success"
+                    },
+                    "queryKey": "fetchAllHackathonTypes",
+                    "queryHash": "[\"fetchAllHackathonTypes\"]"
+                }
+            ]
+        }
+    },
+    "__N_SSG": true
+}
