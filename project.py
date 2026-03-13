@@ -12,7 +12,7 @@ def main():
 
     unstop_list, devfolio_list = parse_json(unstop_json_list, devfolio_json_list)
 
-    city = input("Enter the city for filtering hackathons (default=Mumbai)")
+    city = input("Enter the city as filter for hackathons (default=Mumbai)")
 
     filtered_unstop_list, filtered_devfolio_list = filter_hack_list(unstop_list,devfolio_list,city)
 
