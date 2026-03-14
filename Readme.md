@@ -25,12 +25,12 @@ py project.py     #For Windows
 ```
 
 3. Wait a few minutes for data extraction from the internet.
-![[Pasted image 20260314014218.png]]
+![[images/Pasted image 20260314014218.png]]
 4. When prompted, enter the city name as a filter
-![[Pasted image 20260314015319.png]]
+![[images/Pasted image 20260314015319.png]]
 
 5. The list of active hackathons in that city will be displayed.
- ![[Pasted image 20260314015447.png]]
+ ![[images/Pasted image 20260314015447.png]]
 
 ---
 ### Libraries Used:
