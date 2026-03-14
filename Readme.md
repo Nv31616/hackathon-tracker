@@ -2,7 +2,7 @@
 
 ### Video Demo:
 
-[Link to your YouTube or Streamable video here]
+[Link]
 
 ### Description:
 
@@ -25,12 +25,12 @@ py project.py     #For Windows
 ```
 
 3. Wait a few minutes for data extraction from the internet.
-![[images/Pasted image 20260314014218.png]]
+    ![Screenshot 1](images/1.png)
 4. When prompted, enter the city name as a filter
-![[images/Pasted image 20260314015319.png]]
+    ![Screenshot 2](images/2.png)
 
 5. The list of active hackathons in that city will be displayed.
- ![[images/Pasted image 20260314015447.png]]
+    ![Screenshot 3](images/3.png)
 
 ---
 ### Libraries Used:
@@ -57,4 +57,10 @@ py project.py     #For Windows
 - **`display_hack_list()`** It formats the filtered data and displays it into a attractive, human-readable layout in the terminal using **f-strings** and visual separators for a clean user experience.
   
 ### Ethical Considerations: 
+This project prioritizes ethical data collection practices by adhering to the following guidelines:
 
+- **Public Access Only:** This program only accesses public API endpoints provided by the platforms. It does not attempt to bypass login screens, authentication systems, or private user data.
+    
+- **Rate Limiting:** To ensure the target servers are not overwhelmed, the program implements a `time.sleep(2)` delay between requests. This "polite" scraping behavior ensures the script mimics human-like browsing speed rather than an aggressive bot.
+    
+- **User-Agent Identification:** All requests include a clear `User-Agent` header containing the project name and contact information. This ensures that the platform administrators can identify the source of the traffic and reach out if they have concerns.
