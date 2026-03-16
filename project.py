@@ -12,7 +12,7 @@ def main():
 
     unstop_list, devfolio_list = parse_json(unstop_json_list, devfolio_json_list)
 
-    city = input("Enter the city as filter for hackathons : ").lower()
+    city = input("Enter the city as filter for hackathons (leave blank for no filtering) : ")
 
     filtered_unstop_list, filtered_devfolio_list = filter_hack_list(unstop_list,devfolio_list,city)
 
@@ -99,22 +99,30 @@ def parse_json(unstop_json_list,devfolio_json_list):
 
     return unstop_list,devfolio_list    
 
-def filter_hack_list(unstop_list,devfolio_list,city='mumbai'):
+def filter_hack_list(unstop_list,devfolio_list,city):
     filtered_unstop_list = []
-    for h in unstop_list:
-        try:
-            if h['city'].lower() == city:
-                filtered_unstop_list.append(h)
-        except:
-            continue
-
     filtered_devfolio_list = []
-    for h in devfolio_list:
-        try:
-            if h['city'].lower()== city:
-                filtered_devfolio_list.append(h)
-        except:
-            pass
+    city = city.lower().strip()
+
+    if city == '':
+        filtered_unstop_list = unstop_list
+        filtered_devfolio_list = devfolio_list
+
+    else:
+        for h in unstop_list:
+            try:
+                if h['city'] == city:
+                    filtered_unstop_list.append(h)
+                
+            except:
+                continue
+
+        for h in devfolio_list:
+            try:
+                if h['city'].lower()== city:
+                    filtered_devfolio_list.append(h)
+            except:
+                continue
 
     return filtered_unstop_list,filtered_devfolio_list        
 
@@ -151,4 +159,5 @@ def display_hack_list(filtered_unstop_list,filtered_devfolio_list):
     else:
         print("No Hackathons found for Mumbai 😢")
 
-main()
+if __name__ == "__main__":
+    main()
