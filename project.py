@@ -70,31 +70,33 @@ def parse_json(unstop_json_list,devfolio_json_list):
             unstop_list.append({'name':name,'reg_end':reg_end,'team_min':team_min,'team_max':team_max,'city':city,'college':college,'end':end_date,'link':link})
         
     devfolio_list = []
-    try:
-        for h in devfolio_json_list:
-            name = h['pageProps']['hackathon']['name']
-            team_max = h['pageProps']['hackathon']['team_max']
-            team_min = h['pageProps']['hackathon']['team_min']
+
+    for h in devfolio_json_list:
+        name = h['pageProps']['hackathon']['name']
+        team_max = h['pageProps']['hackathon']['team_max']
+        team_min = h['pageProps']['hackathon']['team_min']
+        if h['pageProps']['hackathon']['city']: #checking if city is blank or not
             city = h['pageProps']['hackathon']['city']
-            college = h['pageProps']['hackathon']['location']
-            start = datetime.fromisoformat(h['pageProps']['hackathon']['starts_at'])
-            end = datetime.fromisoformat(h['pageProps']['hackathon']['ends_at'])
-            reg_end = datetime.fromisoformat(h['pageProps']['hackathon']['settings']['reg_ends_at'])
-            link = f"https://{h['pageProps']['hackathon']['slug']}.devfolio.co/"
-            dictionary = {
-                'name':name,
-                'team_max':team_max,
-                'team_min':team_min,
-                'city':city,
-                'college':college,
-                'start':start,
-                'end':end,
-                'reg_end':reg_end,
-                'link':link
-            }
-            devfolio_list.append(dictionary)
-    except:
-        pass
+        else:
+            city = ''
+        college = h['pageProps']['hackathon']['location']
+        start = datetime.fromisoformat(h['pageProps']['hackathon']['starts_at'])
+        end = datetime.fromisoformat(h['pageProps']['hackathon']['ends_at'])
+        reg_end = datetime.fromisoformat(h['pageProps']['hackathon']['settings']['reg_ends_at'])
+        link = f"https://{h['pageProps']['hackathon']['slug']}.devfolio.co/"
+        dictionary = {
+            'name':name,
+            'team_max':team_max,
+            'team_min':team_min,
+            'city':city,
+            'college':college,
+            'start':start,
+            'end':end,
+            'reg_end':reg_end,
+            'link':link
+        }
+        devfolio_list.append(dictionary)
+
         
 
     return unstop_list,devfolio_list    
@@ -110,26 +112,19 @@ def filter_hack_list(unstop_list,devfolio_list,city):
 
     else:
         for h in unstop_list:
-            try:
-                if h['city'] == city:
-                    filtered_unstop_list.append(h)
+            if h['city'].lower() == city:
+                filtered_unstop_list.append(h)
                 
-            except:
-                continue
-
         for h in devfolio_list:
-            try:
-                if h['city'].lower()== city:
-                    filtered_devfolio_list.append(h)
-            except:
-                continue
+            if h['city'].lower()== city:
+                filtered_devfolio_list.append(h)
 
     return filtered_unstop_list,filtered_devfolio_list        
 
 
 def display_hack_list(filtered_unstop_list,filtered_devfolio_list):
     print("---------Unstop---------")
-    print(f"Found {len(filtered_unstop_list)} Hackathons !!")
+    print(f"Found {len(filtered_unstop_list)} Hackathon(s) !!")
     for h in filtered_unstop_list:
         print(f'🚀 {h['name']}')
         print(f'🎓 Hosted By: {h['college']}')
@@ -157,7 +152,7 @@ def display_hack_list(filtered_unstop_list,filtered_devfolio_list):
             print('------------------------------------------')
     
     else:
-        print("No Hackathons found for Mumbai 😢")
+        print("No Hackathons found😢, check for typos in the city name")
 
 if __name__ == "__main__":
     main()
