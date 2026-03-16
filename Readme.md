@@ -40,6 +40,7 @@ py project.py     #For Windows
 - `tqdm` - To show a real-time progress bar on the terminal while the program is running, as scraping multiple pages of data can take a few minutes.
 - `datetime` - To handle the ISO 8601 string format of time commonly used in JSON.
 - `time` - To add a delay of a few seconds between the HTTP requests so that platform's servers don't crash.
+- `csv` - To store the final extracted details in a simple tabular format.
 
 
 ### Key Functions:
@@ -54,7 +55,7 @@ py project.py     #For Windows
     
 - **`filter_hack_list()`** This function filters the aggregated lists based on a specific city (e.g., **Mumbai**) taken as an input from the user.
     
-- **`display_hack_list()`** It formats the filtered data and displays it into a attractive, human-readable layout in the terminal using **f-strings** and visual separators for a clean user experience.
+- **`display_save_hack_list()`** It formats the filtered data and displays it into a attractive, human-readable layout in the terminal using **f-strings** and visual separators for a clean user experience.It also saves this information in 'hackathons.csv' for future reference. 
   
 ### Ethical Considerations: 
 This project prioritizes ethical data collection practices by adhering to the following guidelines:
