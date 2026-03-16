@@ -1,5 +1,6 @@
-from project import filter_hack_list,parse_json
+from project import filter_hack_list,parse_json,extract_build_id
 from datetime import datetime
+import pytest
 
 def test_filter_hack_list():
     sample_unstop = [
@@ -150,7 +151,6 @@ def test_parse_json():
             ]
         }
     }
-
     sample_devfolio_json = [
         {
             "pageProps": {
@@ -289,3 +289,9 @@ def test_parse_json():
     ]
 
     assert parse_json([sample_unstop_json],sample_devfolio_json) == (sample_unstop,sample_devfolio)
+
+def test_extract_build_id():
+    sample_html = "....../_next/static/Cm7123jueICe0djVs1R5L/_buildManifest.js"
+    assert extract_build_id(sample_html) == "Cm7123jueICe0djVs1R5L"
+    with pytest.raises(ValueError):
+        extract_build_id('<html></html>')

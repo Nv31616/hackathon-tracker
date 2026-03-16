@@ -44,7 +44,7 @@ py project.py     #For Windows
 
 ### Key Functions:
 
-- **`get_build_id()`** Since **Devfolio** utilizes a **Next.js** architecture, a unique `build_id` string is required to access their data endpoints. Because this string changes frequently with new deployments, this function uses **Regular Expressions (RegEx)** to dynamically extract the current `build_id` from the site's source code.
+- **`get_build_id() & extract_build_id()`** Since **Devfolio** utilizes a **Next.js** architecture, a unique `build_id` string is required to access their data endpoints. Because this string changes frequently with new deployments, these functions collectively are used to dynamically extract the current `build_id` from the site's HTML code by using **Regular Expressions (RegEx)** .
     
 - **`calculate_pages()`** **Unstop** distributes its hackathon listings across multiple pages. This function queries the API to determine the `last_page` count, ensuring the scraper covers the entire database.
     

@@ -23,14 +23,20 @@ def calculate_pages():
     total_pages = requests.get(base_url, headers={"User-Agent": "HackathonTracker (Contact: nishantv10092005@gmail.com)"}).json()['data']['last_page']
     return total_pages
 
+def extract_build_id(html_content):
+    pattern = r"\/_next\/static\/([A-Za-z0-9_-]+)\/_buildManifest\.js"
+    if re.search(pattern,html_content):
+        build_id = re.findall(pattern,html_content)[0]
+        return build_id
+    else:
+        raise ValueError("build_id could not be extracted!!")
+
 def get_build_id():
     url = "https://devfolio.co/hackathons"
     response = requests.get(url,headers={"User-Agent": "HackathonTracker (Contact: nishantv10092005@gmail.com)"})  #HTTP Request
     time.sleep(2) # delay
     html_content = response.text
-    pattern = r"\/_next\/static\/([A-Za-z0-9_-]+)\/_buildManifest\.js"
-    build_id = re.findall(pattern,html_content)[0]
-    return build_id
+    return extract_build_id(html_content)
 
 def get_data(build_id,total_pages):
     base_url = "https://unstop.com/api/public/opportunity/search-result?&opportunity=hackathons&per_page=18&oppstatus=open&undefined=true&page="
@@ -61,7 +67,10 @@ def parse_json(unstop_json_list,devfolio_json_list):
         for j in range(len(h['data']['data'])):
             name = h['data']['data'][j]['title']
             link = f"https://unstop.com/{h['data']['data'][j]['public_url']}"
-            city = h['data']['data'][j]['address_with_country_logo']['city']
+            if (h['data']['data'][j]['address_with_country_logo']['city']):
+                city = h['data']['data'][j]['address_with_country_logo']['city']
+            else:
+                city = ''
             end_date = datetime.fromisoformat(h['data']['data'][j]['end_date'])
             reg_end = datetime.fromisoformat(h['data']['data'][j]["regnRequirements"]['end_regn_dt'])
             team_min = h['data']['data'][j]["regnRequirements"]['min_team_size']
@@ -129,7 +138,7 @@ def display_hack_list(filtered_unstop_list,filtered_devfolio_list):
         print(f'🚀 {h['name']}')
         print(f'🎓 Hosted By: {h['college']}')
         reg_end = f"{h['reg_end'].day} {h['reg_end'].strftime('%B')}"
-        end = f"{h['end'].day} {h['end'].strftime('%B')}"  # Converting datetime obj to simple string like 3 March
+        end = f"{h['end'].day} {h['end'].strftime('%B')}"  # Converting datetime object to simple string like 3 March
         print(f'📅 Dates: {end}')
         print(f'⏳ Registration Closes: {reg_end}')
         print(f'👥 Team Size: {h['team_min']} - {h['team_max']}')
