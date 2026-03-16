@@ -3,6 +3,7 @@ import time
 from datetime import datetime
 from tqdm import tqdm
 import re
+import csv
 
 def main():
     build_id = get_build_id()
@@ -16,7 +17,7 @@ def main():
 
     filtered_unstop_list, filtered_devfolio_list = filter_hack_list(unstop_list,devfolio_list,city)
 
-    display_hack_list(filtered_unstop_list,filtered_devfolio_list)
+    display_save_hack_list(filtered_unstop_list,filtered_devfolio_list)
 
 def calculate_pages():
     base_url = "https://unstop.com/api/public/opportunity/search-result?&opportunity=hackathons&per_page=18&oppstatus=open&undefined=true&page="
@@ -131,37 +132,51 @@ def filter_hack_list(unstop_list,devfolio_list,city):
     return filtered_unstop_list,filtered_devfolio_list        
 
 
-def display_hack_list(filtered_unstop_list,filtered_devfolio_list):
+def display_save_hack_list(filtered_unstop_list,filtered_devfolio_list):
+    f = open('hackathons.csv','w',newline='')
+    w = csv.writer(f)
+    w.writerow(['Platform','Name','College','Dates','Registration Last Date','Team Size','Link'])
     print("---------Unstop---------")
-    print(f"Found {len(filtered_unstop_list)} Hackathon(s) !!")
-    for h in filtered_unstop_list:
-        print(f'🚀 {h['name']}')
-        print(f'🎓 Hosted By: {h['college']}')
-        reg_end = f"{h['reg_end'].day} {h['reg_end'].strftime('%B')}"
-        end = f"{h['end'].day} {h['end'].strftime('%B')}"  # Converting datetime object to simple string like 3 March
-        print(f'📅 Dates: {end}')
-        print(f'⏳ Registration Closes: {reg_end}')
-        print(f'👥 Team Size: {h['team_min']} - {h['team_max']}')
-        print(f'🔗 Register here: {h['link']}')
-        print('------------------------------------------')
+    if filtered_unstop_list:
+        print(f"Found {len(filtered_unstop_list)} Hackathon(s) !!")
+        for h in filtered_unstop_list:
+            print(f"🚀 {h['name']}")
+            print(f"🎓 Hosted By: {h['college']}")
+            reg_end = f"{h['reg_end'].day} {h['reg_end'].strftime('%B')}"
+            end = f"{h['end'].day} {h['end'].strftime('%B')}"  # Converting datetime object to simple string like 3 March
+            print(f"📅 Dates: {end}")
+            print(f"⏳ Registration Closes: {reg_end}")
+            print(f"👥 Team Size: {h['team_min']} - {h['team_max']}")
+            print(f"🔗 Register here: {h['link']}")
+            print('------------------------------------------')
+            w.writerow(['Unstop',h['name'],h['college'],end,reg_end,f"{h['team_min']}-{h['team_max']}",h['link']])
+
+        print("List of hackathons saved to hackathons.csv")
+    else:
+        print("No Hackathons found on Unstop 😢")
 
     print("---------Devfolio---------")
     print(f"Found {len(filtered_devfolio_list)} Hackathon(s)!!")
     if filtered_devfolio_list:
         for h in filtered_devfolio_list:
-            print(f'🚀 {h['name']}')
+            print(f"🚀 {h['name']}")
             start = f"{h['start'].day} {h['start'].strftime('%B')}" # Converting datetime obj to simple string like 3 March
             end = f"{h['end'].day} {h['end'].strftime('%B')}"  # Converting datetime obj to simple string like 3 March
             reg_end = f"{h['reg_end'].day} {h['reg_end'].strftime('%B')}"   # Converting datetime obj to simple string like 3 March
-            print(f'📅 Dates: {start} to {end}')
-            print(f'⏳ Registration Closes: {reg_end}')
-            print(f'🎓 Hosted by: {h['college']}')
-            print(f'👥 Team Size: {h['team_min']} - {h['team_max']}')
-            print(f'🔗 Register here: {h['link']}')
+            print(f"📅 Dates: {start} to {end}")
+            print(f"⏳ Registration Closes: {reg_end}")
+            print(f"🎓 Hosted by: {h['college']}")
+            print(f"👥 Team Size: {h['team_min']} - {h['team_max']}")
+            print(f"🔗 Register here: {h['link']}")
             print('------------------------------------------')
+            w.writerow(['Devfolio',h['name'],h['college'],f'{start} to {end}',reg_end,f"{h['team_min']}-{h['team_max']}",h['link']])
+
+        print("List of hackathons saved to hackathons.csv")
     
     else:
-        print("No Hackathons found😢, check for typos in the city name")
+        print("No Hackathons found on Devfolio 😢")
+
+    f.close()
 
 if __name__ == "__main__":
     main()
