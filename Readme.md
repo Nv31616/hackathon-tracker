@@ -2,7 +2,7 @@
 
 ### Video Demo:
 
-[Link]
+[https://youtu.be/Q39QcJJb_7M](https://youtu.be/Q39QcJJb_7M)
 
 ### Description:
 
@@ -29,7 +29,7 @@ py project.py     #For Windows
 4. When prompted, enter the city name as a filter
     ![Screenshot 2](images/2.png)
 
-5. The list of active hackathons in that city will be displayed.
+5. The list of active hackathons in that city will be displayed & it will be saved to 'hackathons.csv'.
     ![Screenshot 3](images/3.png)
 
 ---
